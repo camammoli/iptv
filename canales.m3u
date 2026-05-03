@@ -1,18 +1,238 @@
 #EXTM3U
-#EXTINF:-1,Canal Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
-#EXTINF:-1,Cronica TV
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+# =============================================================
+# Canales de TV Argentina — actualizado 2026-05
+# Fuente: iptv-org/iptv (https://github.com/iptv-org/iptv)
+# =============================================================
 
-#EXTINF:-1,Deport TV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+# --- Señal abierta nacional ---
 
-#EXTINF:-1,Canal 9 Televida
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 group-title="Señal abierta",TV Pública (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
 
-#EXTINF:-1,Canal 7 Mendoza
-https://youtu.be/d0BFOFLmBcE
+#EXTINF:-1 group-title="Señal abierta",El Trece (1080p)
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1,Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 group-title="Señal abierta",Telefe (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+
+#EXTINF:-1 group-title="Señal abierta",América TV (720p)
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="Señal abierta",El Nueve (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
+
+#EXTINF:-1 group-title="Señal abierta",NET TV (720p)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+# --- Noticias ---
+
+#EXTINF:-1 group-title="Noticias",TN (4K)
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="Noticias",C5N (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
+
+#EXTINF:-1 group-title="Noticias",Crónica TV (1280p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias",A24 (720p)
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 group-title="Noticias",Canal 26 (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 group-title="Noticias",Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias",IP Noticias (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
+
+#EXTINF:-1 group-title="Noticias",La Nación + (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias",Multivision Federal
+https://panel.host-live.com:19360/8250/8250.m3u8
+
+#EXTINF:-1 group-title="Noticias",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+# --- Deportes ---
+
+#EXTINF:-1 group-title="Deportes",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",DeporTV (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
+
+#EXTINF:-1 group-title="Deportes",Fox Sports (1080p)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
+# --- Entretenimiento ---
+
+#EXTINF:-1 group-title="Entretenimiento",Ciudad Magazine (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Canal Rural (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Argentinísima Satelital (540p)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Volver (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Metro TV (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Viajar TV (1080p)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS
+
+# --- Cine ---
+
+#EXTINF:-1 group-title="Cine",Cine.Ar (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
+
+#EXTINF:-1 group-title="Cine",Xtrema Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine",Xtrema Cine Clásico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine",Xtrema Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+
+# --- Cultura / Educación ---
+
+#EXTINF:-1 group-title="Cultura",Encuentro (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
+
+#EXTINF:-1 group-title="Cultura",El Gourmet (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8
+
+#EXTINF:-1 group-title="Cultura",TV Universidad UNLP
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+# --- Infantil ---
+
+#EXTINF:-1 group-title="Infantil",Pakapaka (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
+
+#EXTINF:-1 group-title="Infantil",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+# --- Música ---
+
+#EXTINF:-1 group-title="Música",MusicTop (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Cumbia Mix (720p)
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+
+#EXTINF:-1 group-title="Música",Más FM 95.9 (720p)
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1 group-title="Música",Quiero Música en mi Idioma (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8
+
+# --- Regionales (Cuyo / Mendoza) ---
+
+#EXTINF:-1 group-title="Cuyo",Canal 3 Las Heras (720p)
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1 group-title="Cuyo",Canal 9 Televida
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Cuyo",Canal 34 San Juan (720p)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Cuyo",Canal 4 San Juan (576p)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+# --- Regionales (Buenos Aires / Costa) ---
+
+#EXTINF:-1 group-title="Buenos Aires",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 group-title="Buenos Aires",Canal 11 de la Costa (720p)
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1 group-title="Buenos Aires",Canal 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+
+#EXTINF:-1 group-title="Buenos Aires",San Pedro TV (1080p)
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+
+# --- Regionales (Litoral / NEA) ---
+
+#EXTINF:-1 group-title="Litoral / NEA",Canal 9 Litoral (720p)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 group-title="Litoral / NEA",Misiones Cuatro
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+
+#EXTINF:-1 group-title="Litoral / NEA",Tele Posadas (720p)
+https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+
+#EXTINF:-1 group-title="Litoral / NEA",Chaco TV (720p)
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Litoral / NEA",Canal 4 Posadas (576p)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+
+#EXTINF:-1 group-title="Litoral / NEA",Canal 6 Posadas (1080p)
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+# --- Regionales (NOA) ---
+
+#EXTINF:-1 group-title="NOA",Catamarca TV (720p)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+
+#EXTINF:-1 group-title="NOA",Canal 7 Salta (1080p)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1 group-title="NOA",Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NOA",Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 group-title="NOA",Canal 13 San Luis
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+
+# --- Regionales (Patagonia) ---
+
+#EXTINF:-1 group-title="Patagonia",Canal 7 Neuquén (1080p)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Patagonia",Radio TV Neuquén RTN (720p)
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+
+#EXTINF:-1 group-title="Patagonia",Canal 2 Ushuaia (1080p)
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+
+#EXTINF:-1 group-title="Patagonia",Canal 12 Puerto Madryn (720p)
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+
+# --- Regionales (Centro) ---
+
+#EXTINF:-1 group-title="Centro",Canal 10 Córdoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro",Canal 3 La Pampa (1080p)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro",Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro",Telefe Santa Fe (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8
+
+#EXTINF:-1 group-title="Centro",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro",Chilecito TV (480p)
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
