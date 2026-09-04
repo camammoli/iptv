@@ -175,7 +175,7 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 
 #EXTINF:-1 group-title="Litoral / NEA",Tele Posadas (720p)
-https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
 
 #EXTINF:-1 group-title="Litoral / NEA",Chaco TV (720p)
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
