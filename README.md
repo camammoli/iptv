@@ -1,5 +1,7 @@
 # iptv — Canales de TV argentina
 
+[![Archivado en Software Heritage](https://archive.softwareheritage.org/badge/origin/https://github.com/camammoli/iptv/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/camammoli/iptv)
+
 Lista de canales de televisión argentina en formato M3U para reproductores IPTV. Organizada por región y categoría.
 
 **Fuente:** [iptv-org/iptv](https://github.com/iptv-org/iptv) — todos son streams de señal abierta disponibles públicamente.
